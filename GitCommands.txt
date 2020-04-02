@@ -1,0 +1,9 @@
+git clone <Repo-http-url>  // to clone repository from remote or any other location
+git status     // to check status of 
+git push  //
+git add  <file paths> //add files 
+git add ./   //to add all files of the current directory in staging area
+git pull   //
+git fetch  //
+git rebase head~2  //
+git reset --soft head~2 //
