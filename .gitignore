@@ -5,3 +5,5 @@
 /DotNetPractice.CSharpBasics/bin/Debug/netcoreapp3.1
 /DotNetPractice.CSharpBasics/obj
 /.vs/DotNetPractice/v16
+/DotNetPractice.CSharpBasics/bin/Release/netcoreapp3.1
+/.vs
